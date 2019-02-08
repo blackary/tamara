@@ -20,6 +20,6 @@ I posted this to our family about 6:30 PST this morning: Hi, family. I woke up a
 
 And, from Stephen Noell just a few minutes ago: I just called Tamara, she sounds tired but well, still has nausea from the pain meds. Sounded like they are backed up in the MRI room but she'll probably go in soon.
 
-Today we will likely find out more about the plan going forward. We are all still a bit town - thankful she is out of that loooooong surgery, nervous about what is next. Yet, seeking to remember the Lord's new morning mercies. So thankful for the care and prayer of His people. Don't stop.
+Today we will likely find out more about the plan going forward. We are all still a bit down - thankful she is out of that loooooong surgery, nervous about what is next. Yet, seeking to remember the Lord's new morning mercies. So thankful for the care and prayer of His people. Don't stop.
 
 ![Tamara & Dad](/tamara/assets/t_and_dad.jpg)
