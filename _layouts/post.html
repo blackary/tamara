@@ -21,7 +21,9 @@ layout: default
       </div>
       {% elsif page.thumbnail %}
       <div class="thumb">
-        <i class="fa fa-{{ page.thumbnail }} fa-4x"></i>
+        <a href="{{ site.baseurl }}">
+          <i class="fa fa-{{ page.thumbnail }} fa-4x"></i>
+        </a>
       </div>
       {% endif %}
 
