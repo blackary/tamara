@@ -5,7 +5,7 @@ description: "Praying for Tamara Noell"
 baseurl: "/tamara/"
 url: https://blackary.github.io/tamara/
 title_description: "Please pray with us for Tamara Noell"
-title_image: ""
+title_image: /assets/t_and_s.jpg
 google_analytics: "UA-20365477-4"
 disqus_account: cartenoire
 github_repository: https://github.com/blackary/tamara/
