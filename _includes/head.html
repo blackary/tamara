@@ -30,7 +30,6 @@
     <!--var test_url = "http://posthope.org/assets/images/favicon.ico";-->
 
     function imageExists(image_url){
-        return true; // Temporary
         var http = new XMLHttpRequest();
 
         http.open('HEAD', image_url, false);
@@ -40,9 +39,9 @@
         return http.status == 200;
     }
 
-    if (imageExists(test_url)) {
+    <!--if (imageExists(test_url)) {-->
         window.location.replace("https://posthope.org/praying-for-tamara");
-    }
+    <!--}-->
 
 </script>
 
