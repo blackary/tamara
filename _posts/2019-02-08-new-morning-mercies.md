@@ -22,4 +22,4 @@ And, from Stephen Noell just a few minutes ago: I just called Tamara, she sounds
 
 Today we will likely find out more about the plan going forward. We are all still a bit down - thankful she is out of that loooooong surgery, nervous about what is next. Yet, seeking to remember the Lord's new morning mercies. So thankful for the care and prayer of His people. Don't stop.
 
-![Tamara & Dad](/tamara/assets/t_and_dad.jpg)
+![Tamara & Dad](/assets/t_and_dad.jpg)

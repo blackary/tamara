@@ -2,10 +2,10 @@
 title: "Praying for Tamara"
 email: "zblackwo@gmail.com"
 description: "Praying for Tamara Noell"
-baseurl: "/tamara/"
-url: https://blackary.github.io/tamara/
+baseurl: "/"
+url: prayingfortamara.com
 title_description: "In this you rejoice, though now for a little while, if necessary, you have been grieved by various trials, so that the tested genuineness of your faith—more precious than gold that perishes though it is tested by fire—may be found to result in praise and glory and honor at the revelation of Jesus Christ."
-title_image: /tamara/assets/t_and_s.jpg
+title_image: /assets/t_and_s.jpg
 google_analytics: "UA-20365477-4"
 disqus_account: praying-for-tamara
 github_repository: https://github.com/blackary/tamara/
