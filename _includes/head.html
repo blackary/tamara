@@ -26,23 +26,13 @@
 {% endif %}
 
 <script type="text/javascript">
-    <!--var test_url = "https://cloudinary-a.akamaihd.net/posthope/image/upload/c_crop,h_777,t_web_scale,w_777,x_153,y_37/bo_10px_solid_rgb:EDEFF2,c_fill,h_200,r_max,w_200/v2/praying-for-tamara/f8b6a555-f45b-45e0-9fea-6a896d06eea0.png";-->
-    <!--var test_url = "http://posthope.org/assets/images/favicon.ico";-->
-
-    function imageExists(image_url){
-        var http = new XMLHttpRequest();
-
-        http.open('HEAD', image_url, false);
-        http.timeout = 2000;
-        http.send();
-
-        return http.status == 200;
-    }
-
-    <!--if (imageExists(test_url)) {-->
-        window.location.replace("https://posthope.org/praying-for-tamara");
-    <!--}-->
-
+    var isup_api = 'http://isitup.org/posthope.org.json';
+    var http = new XMLHttpRequest();
+    $.getJSON(isup_api).done(function(data) {
+        if (data.status_code == 1) {
+            window.location.replace("https://posthope.org/praying-for-tamara");
+        }
+    });
 </script>
 
 {% if page.content contains '<script type="math/tex' %}
