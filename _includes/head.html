@@ -25,6 +25,43 @@
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ site.addthis_id }}"></script>
 {% endif %}
 
+<script type="text/javascript">
+
+    function getJSON(url, callback) {
+        var request = new XMLHttpRequest();
+        request.open('GET', url, true);
+
+        request.onload = function() {
+          if (request.status >= 200 && request.status < 400) {
+            var data = JSON.parse(request.responseText);
+            callback(data);
+          } else {
+            console.error("Error status returned");
+          }
+        };
+
+        request.onerror = function() {
+            console.error("Connection error");
+        };
+
+        request.send();
+    }
+
+    function ifIsUp(domain, callback) {
+        var url = "https://isitup.org/" + domain + ".json";
+        getJSON("https://isitup.org/posthope.org.json", function(data) {
+            if (data.status_code === 1) {
+                callback();
+            }
+        });
+    }
+
+    ifIsUp("posthope.org", function() {
+        window.location.replace("https://posthope.org/praying-for-tamara"); 
+    });
+</script>
+
+
 {% if page.content contains '<script type="math/tex' %}
 <!-- MathJax for LaTeX -->
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>

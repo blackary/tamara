@@ -68,16 +68,6 @@
 </script>
 {% endif %}
 
-<script type="text/javascript">
-    var isup_api = 'https://isitup.org/posthope.org.json';
-    var http = new XMLHttpRequest();
-    $.getJSON(isup_api).done(function(data) {
-        if (data.status_code == 1) {
-            window.location.replace("https://posthope.org/praying-for-tamara");
-        }
-    });
-</script>
-
 {% if site.google_analytics %}
 <script type="text/javascript">
   var _gaq = _gaq || [];
