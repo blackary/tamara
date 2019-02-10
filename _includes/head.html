@@ -25,16 +25,6 @@
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ site.addthis_id }}"></script>
 {% endif %}
 
-<script type="text/javascript">
-    var isup_api = 'http://isitup.org/posthope.org.json';
-    var http = new XMLHttpRequest();
-    $.getJSON(isup_api).done(function(data) {
-        if (data.status_code == 1) {
-            window.location.replace("https://posthope.org/praying-for-tamara");
-        }
-    });
-</script>
-
 {% if page.content contains '<script type="math/tex' %}
 <!-- MathJax for LaTeX -->
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
