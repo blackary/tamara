@@ -2,7 +2,7 @@
 layout:     post
 title:      Going Home
 date:       2019-02-09 10:30
-author:     Charity Blackwood
+author:     Charity Mann
 summary:    Tamara gets to go home
 categories: tamara
 thumbnail:  heart
