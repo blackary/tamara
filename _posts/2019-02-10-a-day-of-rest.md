@@ -23,11 +23,11 @@ Tonight we got to meet Tamara's neighbor, a dear Christian retired woman who pro
 
 As various family members get ready to leave soon, and others are making plans to come and help over the next few weeks; as we wait for the results of the pathology of Tamara's tumor; as we look with little medical certainty towards what the future holds in the coming weeks, months and years for Tamara; we are glad to be resting in the God who blesses us with families and homes, who gives us rest, and who holds us and our future in His hands.
 
-*Bless the LORD, O my soul,
-and forget not all his benefits,  
-who forgives all your iniquity,
-who heals all your diseases,
-who redeems your life from the pit,
-who crowns you with steadfast love and mercy,
-who satisfies you with good
-so that your youth is renewed like the eagle's.*
+> Bless the LORD, O my soul,
+> and forget not all his benefits,  
+> who forgives all your iniquity,
+> who heals all your diseases,
+> who redeems your life from the pit,
+> who crowns you with steadfast love and mercy,
+> who satisfies you with good
+> so that your youth is renewed like the eagle's.
